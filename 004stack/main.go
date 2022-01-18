@@ -6,4 +6,5 @@ func main() {
 	str := "[[]"
 
 	fmt.Println(str)
+	fmt.Println("aaa")
 }
