@@ -7,4 +7,5 @@ func main() {
 
 	fmt.Println(str)
 	fmt.Println("aaa")
+	fmt.Println("hot-fix")
 }
