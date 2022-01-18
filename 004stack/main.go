@@ -8,4 +8,5 @@ func main() {
 	fmt.Println(str)
 	fmt.Println("aaa")
 	fmt.Println("master aaa")
+	fmt.Println("hot-fix")
 }
